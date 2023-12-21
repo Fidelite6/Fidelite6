@@ -8,7 +8,7 @@ I'm a seasoned Full Stack Developer with over 7 years of experience in the indus
 
 - Full-stack development with **PHP** and **JavaScript**
 - Back-end development using the **Laravel** framework
-- Front-end development with **Vue.js** and **React.js**
+- Front-end development with **Vue.js** / **Nuxt.js** and **React.js** \ **Next.js**
 - Proficient in **API development** and integration
 - Version control using **Git**
 - Web application **performance optimization**
@@ -18,7 +18,7 @@ I'm a seasoned Full Stack Developer with over 7 years of experience in the indus
 
 ## 🌱 I’m currently learning
 
-- Expanding my knowledge on Cloud technologies
+- Expanding my knowledge of Cloud technologies
 - Digging deeper into the world of microservices architecture
 - Delving into the implementation of **AI** in web services
 
