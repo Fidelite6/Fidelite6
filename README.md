@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a seasoned Full Stack Developer with over 7 years of experience in the industry, holding a strong proficiency in PHP and JavaScript. I've got an extensive background working with Laravel, Vue.js, and React.js, having spent 7 years with Laravel and 5 years respectively with Vue.js and React.js. Over the years, I have honed my skills in API development and integration, and version control using GIT.
+I'm a seasoned Full Stack Developer with over 10 years of experience in the industry, holding a strong proficiency in PHP and JavaScript. I've got an extensive background working with Laravel, Vue.js, and React.js, having spent 9 years with Laravel and 7 years respectively with Vue.js and React.js. Over the years, I have honed my skills in API development and integration, and version control using GIT.
 
 ## 🔭 Expertise 
 
@@ -26,5 +26,5 @@ I'm a seasoned Full Stack Developer with over 7 years of experience in the indus
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yura-halias-3a318213b/)
-- Email: yuriihalias7@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yurii-halias/)
+- Email: yhalias@halsoft.net
